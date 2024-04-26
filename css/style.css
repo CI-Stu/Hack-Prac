@@ -1,0 +1,13 @@
+body {
+    font-family: 'GFS Neohellenic', sans-serif;
+    background-color: #468fa2;
+}
+
+.andros-title {
+    font-weight:bolder;
+    color: #468fa2;
+}
+ .navbar-link-titles {
+    font-weight: bold;
+    color: #000000;
+ }
